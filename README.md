@@ -36,3 +36,5 @@ The script performs various variations of k-means on these 3 values per protein 
   - classic k-means or optimized k-means by choosing initial clusters using simulated annealing
   - clustering with k=3 or k=4 (rationale behind chosing those values explained in the report)
   - clustering on the original data or on a data from which outliers were removed
+
+All outputs of the various forms of clustering can be found in the "results" folder.
